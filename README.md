@@ -54,3 +54,6 @@ My current list of things to do are:
 - [ ] Expand & Streamline specification
 - [ ] Add more examples
 - [ ] Add parser
+- [ ] Add more example recipes
+- [ ] Add a syntax checker
+- [ ] Clarify integration with USDA Standard Reference
