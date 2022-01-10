@@ -129,7 +129,7 @@ International Standard Book Number, if available.
 
 Any information about the book that does not fit into another field.
 
-### X-<field>
+### X-&lt;field&gt;
 
 A lot of different information about a book can be stored. Until a field
 has been officially accepted into the spec, it should start with a
@@ -193,7 +193,7 @@ The amount, relevant to the `unit`.
 Generally "servings", but up to the user. Can be "packages", "cups",
 "glasses", etc.
 
-## X-<field>
+## X-&lt;field&gt;
 
 A lot of different information about a recipe can be stored. Until a
 field has been officially accepted into the spec, it should start with a
